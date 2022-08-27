@@ -7,3 +7,8 @@
     padding-top: 10vmax;
     width: 800px;
 }
+@media only screen and (max-width: 600px) {
+    .caro{
+        width: 375px;
+    }
+  }
