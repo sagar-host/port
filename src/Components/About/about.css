@@ -7,6 +7,10 @@
  position: relative;
 padding: 50px;
 }
+.TER{
+    font-family: 'Tangerine', serif;
+	font-size: 35px;
+}
 .textAbout{
     margin-top: 10vmax;
 

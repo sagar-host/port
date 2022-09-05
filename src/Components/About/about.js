@@ -8,7 +8,7 @@ function about() {
   return (
     <div id='about'>
     <div className="textAbout">
-    <h2>Hello. I am Sagar. </h2>
+    <h2>Hello. My name is <h4 className='TER'>SAGAR</h4> . </h2>
 <h2 className="darkText">I'm an interdisciplinary Web Developer living in <a href="https://en.wikipedia.org/wiki/Mandi,_Himachal_Pradesh" target="_blank" rel="noopener noreferrer" className="link-3">Mandi</a>, Himachal Pardesh. Currently I work at Freelance, transforming how we experience Work From Home.</h2>
 
     </div>
