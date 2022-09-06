@@ -1,7 +1,7 @@
 import React from 'react';
-import {Navbar,Nav,Container } from "react-bootstrap";
+
 import "./header.css"
-import {Link} from "react-router-dom";
+
 import {ReactNavbar} from "overlay-navbar"
 
 
@@ -49,32 +49,7 @@ function header() {
         cartIconColorHover="crimson"
         profileIconColorHover="crimson"
       />
-      {/* <div className="timer"></div>
-      <div className="pic">
-         <img src={require('../Images/eye.gif')} alt="" />
-      </div> */}
 
-{/* //          <Navbar id='NAVBAR' collapseOnSelect expand="lg" >
-// //   <Container>
-// // <Link to="/" className='LinkHeading'>EverGreen</Link> 
-// //   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-// //   <Navbar.Collapse id="responsive-navbar-nav">
-// //     <Nav className="me-auto">
-// //       <Link  to="/myproject" className='link2'>My Project</Link>
-// //       <Link to="/contact" className='link2'>Contact Me</Link>
-    
-    
-// //     </Nav>
-// //     <Nav>
-// //       <Link to="https://www.linkedin.com/in/sagar-208723153"><i className="fa fa-twitter"></i></Link>
-
-// //       <Link to="https://www.github.com/sagar-host">
-// //       <i className="fa fa-github"></i>
-// //       </Link>
-// //     </Nav>
-// //   </Navbar.Collapse>
-// //   </Container>
-// // </Navbar> */}
    </>
   )
 }
