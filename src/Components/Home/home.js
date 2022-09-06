@@ -6,7 +6,6 @@ import Project from "../ProjectSection/Project"
 import Footer from "../Footer.js/footer"
 import Carousel from "../Carousel/Carousel"
 import Tool from '../Tool1/tool'
-import Deck from "../Tool1/tool2";
 
 
 
