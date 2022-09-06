@@ -1,15 +1,10 @@
 
 
 import React from "react";
-import ReactDOM from "react-dom";
 import "./tool.css";
 
 const paths = [
-//  <path
-//    d="M271,113L241,321L172,54Z"
-//    fill="rgb(19, 19, 19)"
-//   fill-opacity="0.61"
-//  />,
+
 <path fill="#17191B" fill-opacity="1.000000" 
 	d="
 M403.276520,600.741699 
